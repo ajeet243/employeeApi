@@ -1,0 +1,26 @@
+[
+    {
+      "ProdSubCategoryID": "1", 
+      "ProdSubCategoryParentID":"1",
+      "ProdSubCategorytitle": "PAWALI",
+      "ProdSubCategoryDesc": "PAWALI Kitchen Utensils"
+    },
+    {
+        "ProdSubCategoryID": "2", 
+        "ProdSubCategoryParentID":"1",
+        "ProdSubCategorytitle": "KUNDA",
+        "ProdSubCategoryDesc": "KUNDA Kitchen Utensils"
+      },
+      {
+          "ProdSubCategoryID": "3", 
+          "ProdSubCategoryParentID":"1",
+          "ProdSubCategorytitle": "Balti",
+          "ProdSubCategoryDesc": "Balti Kitchen Utensils"
+        },
+        {
+            "ProdSubCategoryID": "4", 
+            "ProdSubCategoryParentID":"1",
+            "ProdSubCategorytitle": "MilkPot",
+            "ProdSubCategoryDesc": "MilkPot Kitchen Utensils"
+          }
+]

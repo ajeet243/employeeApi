@@ -1,0 +1,66 @@
+[
+    {
+       
+      "CategoryID": "1", 
+      "Categoryimageurl": "../../../assets/categories/ElectronicsAndHomeAppliances.jpg",
+      "Categorytitle": "Electronic & Home Apppliances",
+      "CategoryDesc": "Electronic & Home Apppliances",
+      "productlisturl":"/Products"
+    },
+    {
+       
+        "CategoryID": "2", 
+        "Categoryimageurl": "../../../assets/categories/cloth.jpg",
+        "Categorytitle": "Clothing Accesories",
+        "CategoryDesc": "Clothing Accesories",
+        "productlisturl":"/Products"
+      },
+      {
+       
+        "CategoryID": "3", 
+        "Categoryimageurl": "../../../assets/categories/kitchen appliances.jpg",
+        "Categorytitle": "Kitchen Accesories",
+        "CategoryDesc": "Kitchen Accesories",
+        "productlisturl":"/Products"
+      },
+ 
+      {
+       
+        "CategoryID": "4", 
+        "Categoryimageurl": "../../../assets/categories/stationaery.jpg",
+        "Categorytitle": "Stationery",
+        "CategoryDesc": "Stationery",
+        "productlisturl":"/Products"
+      },
+      {
+       
+        "CategoryID": "5", 
+        "Categoryimageurl": "../../../assets/categories/toysandbabycare.jpg",
+        "Categorytitle": "Toys And baby Care",
+        "CategoryDesc": "Toys And baby Care",
+        "productlisturl":"/Products"
+      },
+      {
+       
+        "CategoryID": "6", 
+        "Categoryimageurl": "../../../assets/categories/FOOTWEAR.jpeg",
+        "Categorytitle": "FootWear",
+        "CategoryDesc": "FootWear",
+        "productlisturl":"/Products"
+      },
+      {
+       
+        "CategoryID": "7", 
+        "Categoryimageurl": "../../../assets/categories/it&mobile.jpg",
+        "Categorytitle": "I.T & Mobile",
+        "CategoryDesc": "I.T & Mobile",
+        "productlisturl":"/Products"
+      },
+      {
+       
+        "CategoryID": "8", 
+        "Categoryimageurl": "../../../assets/categories/groceries.jpg",
+        "Categorytitle": "Groceries",
+        "CategoryDesc": "Groceries"
+      }
+    ]

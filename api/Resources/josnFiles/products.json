@@ -1,0 +1,49 @@
+[
+    {
+      "ProductID": "1",
+      "ProductCategoryID": "1",
+      "ProductSubCategoryID": "1",
+      "Prodimageurl": "",
+      "Prodtitle": "",
+      "ProdDesc": "",
+      "Part": [
+        {
+          "Type": "A",
+          "Number": [
+            "1",
+            "2",
+            "3"
+          ]
+        },
+        {
+          "Type": "B",
+          "Number": [
+            "1"
+          ]
+        },
+        {
+          "Type": "C",
+          "Number": [
+            "1"
+          ]
+        }
+      ]
+    },
+    {
+      "Color": "Red",
+      "Part": [
+        {
+          "Type": "A",
+          "Number": [
+            "1"
+          ]
+        },
+        {
+          "Type": "B",
+          "Number": [
+            "2"
+          ]
+        }
+      ]
+    }
+  ]
